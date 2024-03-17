@@ -23,7 +23,7 @@ Read more [here](https://aclanthology.org/2024.eacl-tutorials.4/).
 - Attention analysis and its limitations.
 - Measures of context mixing: expanding the scope of the analysis beyond attention
 
-**15:00-15:30:** Interactive notebook session on interpreting context mixing
+**15:00-15:30:** Interactive notebook session on interpreting context mixing [[Colab notebook](https://colab.research.google.com/drive/114YigbeMilvetmPStnlYR7Wd7gxWYFAX)]
 
 Coffee break
 
@@ -32,7 +32,7 @@ Coffee break
 - Finding circuit structure using causal interventions
 - Assigning semantics to circuit components using logit lens.
 
-**16:30-17:00:** Interactive notebook session on mechanistic interpretability
+**16:30-17:00:** Interactive notebook session on mechanistic interpretability [[Colab notebook 1](https://colab.research.google.com/drive/1NXVzQ6I8MCXlkEekU3yFKNTpeCHYaupf)] [[Colab notebook 2](https://colab.research.google.com/drive/1fbBYNlkmuLbAOuJ8_CnwipyQRxoFW0Vn)]
 
 **17:00-17:30:**  Open discussion, reflection, and future outlook: what are open questions in interpretability, what’s next, and what’s lacking?
 
