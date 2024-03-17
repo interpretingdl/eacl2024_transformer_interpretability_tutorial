@@ -127,11 +127,12 @@ Coffee break
 - Wu et al. (2024) - A Reply to Makelov et al. (2023)'s "Interpretability Illusion" Arguments
 - hang and Nanda (ICLR 2024) - Towards Best Practices of Activation Patching in Language Models: Metrics and Methods
 - Chan et al. (2022) - Rigorously Testing Interpretability Hypotheses Using Causal Scrubbing
-- Anthropic’s Transformer Circuits Thread:
+
+**Anthropic’s Transformer Circuits Thread:**
 - Elhage et al. (2021) - A Mathematical Framework for Transformer Circuits
 - Olsson et al. (2022) - In-context Learning and Induction Heads
 - Elhage et al. (2022) - Toy Models of Superposition
-See all work in the thread [here](https://transformer-circuits.pub/)
+- See all work in the thread [here](https://transformer-circuits.pub/)
 
 **Other mechanistic work:**
 - Meng et al. (NeurIPS 2022) - Locating and Editing Factual Associations in GPT
